@@ -90,7 +90,7 @@ function App() {
             <li>
               <select className="select select-ghost w-full max-w-xs bg-base-100 ml-3">
                 <option disabled selected className="bg-base-100">
-                  language
+                  languages
                 </option>
                 <option className="bg-base-100">EN</option>
                 <option className="bg-base-100">AR</option>
@@ -152,7 +152,7 @@ function App() {
                 <div className="card-actions justify-end">
                   <Link to={'/ProductPage'}>
                     <button className="btn btn-warning text-black">
-                      View Details
+                      View Detailsss
                     </button>
                   </Link>
                 </div>
